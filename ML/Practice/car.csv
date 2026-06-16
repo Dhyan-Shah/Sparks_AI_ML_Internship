@@ -1,0 +1,6 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+Swift,2018,5.5,7.0,30000,Petrol,Dealer,Manual,0
+City,2016,7.2,9.5,45000,Diesel,Dealer,Manual,1
+i20,2019,6.8,8.0,25000,Petrol,Individual,Automatic,0
+Creta,2020,11.5,13.0,15000,Diesel,Dealer,Manual,0
+Baleno,2017,5.9,7.5,38000,Petrol,Individual,Manual,1
